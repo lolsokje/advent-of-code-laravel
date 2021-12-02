@@ -1,6 +1,6 @@
 # Advent of Code using Laravel
 
-A completely over the top project
+A completely over the top Laravel project, with probably some scuffed solution, for Advent of Code.
 
 ## Requirements
 
